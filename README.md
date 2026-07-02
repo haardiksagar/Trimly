@@ -68,7 +68,7 @@ Want to run Trimly on your own machine? Follow these steps:
 
 ### 1. Database Configuration
 1. Create a [Supabase](https://supabase.com) project.
-2. Open `src/main/resources/application.properties` in your IDE.
+2. Open `src/main/resources/application.properties` in your IDE
 3. Plug in your database credentials:
    ```properties
    spring.datasource.url=jdbc:postgresql://db.[YOUR_ID].supabase.co:5432/postgres
