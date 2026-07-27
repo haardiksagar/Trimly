@@ -1,6 +1,6 @@
 # ✂️ Trimly — URL Shortener
 
-Trimly is a modern, full-stack URL shortener designed for speed and security. It takes long, unwieldy links and instantly converts them into clean, trackable short URLs
+Trimly is a modern, full-stack URL shortener designed for speed and security. It takes long, unwieldy links and instantly converts them into clean, trackable short URLs.
 
 ---
 
