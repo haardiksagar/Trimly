@@ -4,7 +4,7 @@ Trimly is a modern, full-stack URL shortener designed for speed and security. It
 
 ---
 
-## 🌊 Application Flow
+## Application Flow
 
 Understanding how Trimly works under the hood:
 
@@ -40,7 +40,7 @@ sequenceDiagram
 
 ---
 
-## ✨ Core Features
+## Core Features
 
 *   **Lightning Fast Redirects:** Built on Spring Boot for highly concurrent, instant 302 redirects.
 *   **Passwordless Security:** Eliminates password vulnerabilities by exclusively using Email OTPs and Google OAuth.
@@ -51,7 +51,7 @@ sequenceDiagram
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 | Component | Technology | Description |
 | :--- | :--- | :--- |
@@ -62,7 +62,7 @@ sequenceDiagram
 
 ---
 
-## 🚀 Quick Start Guide
+## Quick Start Guide
 
 Want to run Trimly on your own machine? Follow these steps:
 
